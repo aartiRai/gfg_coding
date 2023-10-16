@@ -1,4 +1,4 @@
-<h2><a href="https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&curated[]=1&sortBy=submissions">Binary Search</a></h2><h3>Difficulty Level : Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a sorted array of size <strong>N</strong> and an integer <strong>K</strong>, find the position(0-based indexing) at which <strong>K</strong> is present in the array using binary search.</span></p>
+<h2><a href="https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1">Binary Search</a></h2><h3>Difficulty Level : Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a sorted array of size <strong>N</strong> and an integer <strong>K</strong>, find the position(0-based indexing) at which <strong>K</strong> is present in the array using binary search.</span></p>
 <p><span style="font-size: 18px;"><strong>Example 1:</strong></span></p>
 <pre><span style="font-size: 18px;"><strong>Input:</strong>
 N = 5
